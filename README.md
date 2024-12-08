@@ -1,9 +1,11 @@
 # Python
 
 # Day 1: Introduction to Python, Installation, and Configuration
-Introduction to Python and its role in DevOps.
-Installing Python and setting up a development environment.
-Writing your first Python program.
+<ol>
+<li>Introduction to Python and its role in DevOps.</li>
+<li>Installing Python and setting up a development environment.</li>
+<li>Writing your first Python program.</li>
+</ol>
 # Day 2: Intro to Datatypes, Working with Strings and Numbers
 String data type in Python.
 String manipulation and formatting.
